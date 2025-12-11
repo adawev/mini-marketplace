@@ -42,7 +42,6 @@ export class ProductList {
     const card = document.createElement('div');
     card.className = 'product-card';
 
-    // Image container with category badge
     const imgContainer = document.createElement('div');
     imgContainer.className = 'product-image-container';
 
